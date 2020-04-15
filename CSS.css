@@ -1,0 +1,45 @@
+/* CSS for Both HTML Pages */
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+p.solid {
+    border-style: solid;
+}
+
+
+div {
+    opacity: 0.8;
+}
+
+// 
+<p > <img src="logo.jpg"style="float:right;width:42px;height:42px;" > The image will float to the left of the text.</p > div {
+    width: 300px;
+    border: 15px solid orange;
+    padding: 50px;
+    margin: 20px;
+}
+
+.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+    font-family: "Times New Roman", Courier, monospace;
+}
